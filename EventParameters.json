@@ -1,0 +1,30 @@
+{
+    "kind": "calendar#event",
+    "summary": "API R.1.0.0 Deployment to QA Env.",
+    "description": "API R.1.0.0 Deployment to QA Env.",
+    "location": "Advanced Building. Avinguda de la Generalitat, 166, 08174 Sant Cugat del Vallès, Barcelona",
+    "start": {
+        "dateTime": "2020-04-26T17:00:00+02:00",
+        "timeZone": "Europe/Madrid"
+    },
+    "end": {
+        "dateTime": "2020-04-26T18:00:00+02:00",
+        "timeZone": "Europe/Madrid"
+    },
+    "organizer": {
+        "displayName": "DevOps"
+    },
+    "attendees": [
+        {
+            "email": "josegarciamillan@gmail.com"
+        }
+    ],
+    "status": "confirmed",
+    "reminders": [
+        {
+            "useDefault": false,
+            "overrides": []
+        }
+    ],
+    "colorId": 4
+}
